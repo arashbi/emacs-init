@@ -1,0 +1,388 @@
+;;; -*- coding: utf-8; mode: lisp-data -*-
+(("/Users/abizhanzadeh/Org/deft/2023-05-06T2017.org" . 106)
+ ("/Users/abizhanzadeh/Thumbtack/website/includes/models/LandingPage.php" . 17052)
+ ("/Users/abizhanzadeh/Org/deft/2022-09-29T1235.org" . 1298)
+ ("/Users/abizhanzadeh/Thumbtack/thrift-definitions/com/thumbtack/kafka/tasks/communications/request_recovery.thrift" . 871)
+ ("/Users/abizhanzadeh/Thumbtack/thrift-definitions/com/thumbtack/user/user.thrift" . 39337)
+ ("/Users/abizhanzadeh/.emacs.d/"
+  (dired-filename . "/Users/abizhanzadeh/.emacs.d/personal"))
+ ("/Users/abizhanzadeh/.emacs.d/personal/"
+  (dired-filename . "/Users/abizhanzadeh/.emacs.d/personal/custom.el"))
+ ("/Users/abizhanzadeh/.emacs.d/personal/custom.el" . 1345)
+ ("/Users/abizhanzadeh/sources/timeline/baby.json" . 52)
+ ("/Users/abizhanzadeh/Thumbtack/alfred/alfred-http/alfred_http/views.py" . 12916)
+ ("/Users/abizhanzadeh/Org/deft/2023-04-05T1047.org" . 151)
+ ("/Users/abizhanzadeh/Thumbtack/alfred/alfred-http/alfred_http/routes.py" . 946)
+ ("/Users/abizhanzadeh/Org/deft/incentives.org" . 73)
+ ("/Users/abizhanzadeh/Thumbtack/website/includes/views/ViewWithUtmParams.php" . 37)
+ ("/Users/abizhanzadeh/Org/deft/2023-02-22T1208.org" . 213)
+ ("/Users/abizhanzadeh/Org/deft/2023-02-21T1605.org" . 206)
+ ("/Users/abizhanzadeh/eppr.sql" . 13493)
+ ("/Users/abizhanzadeh/Thumbtack/thrift-definitions/com/thumbtack/recommendation/data.thrift" . 760)
+ ("/Users/abizhanzadeh/Thumbtack/thrift-definitions/com/thumbtack/recommendation/recommendation.thrift" . 1703)
+ ("/Users/abizhanzadeh/Org/deft/2023-02-07T1306.org" . 285)
+ ("/Users/abizhanzadeh/Org/deft/2023-02-13T1402.org" . 1765)
+ ("/Users/abizhanzadeh/Thumbtack/thrift-definitions/com/thumbtack/prediction/prediction.thrift" . 1085)
+ ("/Users/abizhanzadeh/Thumbtack/thrift-definitions/com/thumbtack/budget/budget.thrift" . 1794)
+ ("/Users/abizhanzadeh/Thumbtack/thrift-definitions/com/thumbtack/budget/endpoint/get_budgets.thrift" . 570)
+ ("/Users/abizhanzadeh/go/src/github.com/thumbtack/go/check.sh" . 703)
+ ("/Users/abizhanzadeh/.zshrc" . 1322)
+ ("/Users/abizhanzadeh/Thumbtack/thrift-definitions/com/thumbtack/kafka/tasks/communications/"
+  (dired-filename . "/Users/abizhanzadeh/Thumbtack/thrift-definitions/com/thumbtack/kafka/tasks/communications/request_recovery.thrift"))
+ ("/Users/abizhanzadeh/sources/timeline/android/fastlane/Fastfile" . 398)
+ ("/Users/abizhanzadeh/Thumbtack/thrift-definitions/com/thumbtack/agonas/common.thrift" . 184)
+ ("/Users/abizhanzadeh/Thumbtack/thrift-definitions/com/thumbtack/monetization/contact.thrift" . 8192)
+ ("/Users/abizhanzadeh/Thumbtack/thrift-definitions/com/thumbtack/negotiation/negotiation.thrift" . 14644)
+ ("/Users/abizhanzadeh/Thumbtack/thrift-definitions/com/thumbtack/kafka/events/monetization/contact.thrift" . 933)
+ ("/Users/abizhanzadeh/Org/deft/2023-01-25T1328.org" . 320)
+ ("/Users/abizhanzadeh/Thumbtack/website/includes/actions/RequestAction.php" . 166241)
+ ("/Users/abizhanzadeh/Thumbtack/website/includes/email/RecoveryEmail.php" . 1666)
+ ("/Users/abizhanzadeh/Thumbtack/thrift-definitions/com/thumbtack/messaging/message.thrift" . 21757)
+ ("/Users/abizhanzadeh/.emacs.d/elpa/php-mode-1.24.2/php-mode-autoloads.el" . 9884)
+ ("/Users/abizhanzadeh/Thumbtack/thrift-definitions/com/thumbtack/agonas/agonas.thrift" . 574)
+ ("/Users/abizhanzadeh/Thumbtack/thrift-definitions/com/thumbtack/kafka/events/projects/"
+  (dired-filename . "/Users/abizhanzadeh/Thumbtack/thrift-definitions/com/thumbtack/kafka/events/projects/.."))
+ ("/Users/abizhanzadeh/Thumbtack/thrift-definitions/com/thumbtack/kafka/events/projects/projects.thrift" . 838)
+ ("/Users/abizhanzadeh/Thumbtack/thrift-definitions/com/thumbtack/kafka/events/"
+  (dired-filename . "/Users/abizhanzadeh/Thumbtack/thrift-definitions/com/thumbtack/kafka/events/.."))
+ ("/Users/abizhanzadeh/Thumbtack/thrift-definitions/com/thumbtack/kafka/"
+  (dired-filename . "/Users/abizhanzadeh/Thumbtack/thrift-definitions/com/thumbtack/kafka/tasks"))
+ ("/Users/abizhanzadeh/Thumbtack/thrift-definitions/com/thumbtack/kafka/tasks/"
+  (dired-filename . "/Users/abizhanzadeh/Thumbtack/thrift-definitions/com/thumbtack/kafka/tasks/communications"))
+ ("/Users/abizhanzadeh/Thumbtack/thrift-definitions/com/thumbtack/kafka/tasks/communications/instant_book_notification.thrift" . 832)
+ ("/Users/abizhanzadeh/Thumbtack/experiment-definitions/"
+  (dired-filename . "/Users/abizhanzadeh/Thumbtack/experiment-definitions/experiments"))
+ ("/Users/abizhanzadeh/Thumbtack/experiment-definitions/experiments/"
+  (dired-filename . "/Users/abizhanzadeh/Thumbtack/experiment-definitions/experiments/active"))
+ ("/Users/abizhanzadeh/Thumbtack/experiment-definitions/experiments/active/"
+  (dired-filename . "/Users/abizhanzadeh/Thumbtack/experiment-definitions/experiments/active/customer"))
+ ("/Users/abizhanzadeh/Thumbtack/experiment-definitions/experiments/active/customer/2022_06_c2pp_discounts_popular_android.yaml" . 293)
+ ("/Users/abizhanzadeh/Thumbtack/experiment-definitions/experiments/active/customer/"
+  (dired-filename . "/Users/abizhanzadeh/Thumbtack/experiment-definitions/experiments/active/customer/2022_10_ib_cta_redirect.yaml"))
+ ("/Users/abizhanzadeh/Thumbtack/website/bin/cron/send_aggregated_reporting_email.php" . 1261)
+ ("/Users/abizhanzadeh/Thumbtack/website/includes/actions/ScriptedAction.php" . 80755)
+ ("/Users/abizhanzadeh/.zprezto/runcoms/zshrc" . 1263)
+ ("/Users/abizhanzadeh/go/pkg/mod/github.com/aws/aws-sdk-go@v1.40.43/service/s3control/endpoint_test.go" . 26494)
+ ("/Users/abizhanzadeh/.ssh/config" . 142)
+ ("/Users/abizhanzadeh/go/src/github.com/thumbtack/go/Makefile" . 6596)
+ ("/Users/abizhanzadeh/go/pkg/mod/github.com/aws/aws-sdk-go@v1.40.43/service/s3/api.go" . 1339635)
+ ("/Users/abizhanzadeh/Org/deft/2022-11-28T1248.org" . 138)
+ ("/Users/abizhanzadeh/Org/deft/2022-10-24T1428.org" . 11)
+ ("/Users/abizhanzadeh/.ssh/config_thumbtack" . 650)
+ ("/Users/abizhanzadeh/sources/timeline/ios/fastlane/Fastfile" . 201)
+ ("/Users/abizhanzadeh/sources/timeline/lib/pages/view_post/top_widgets.dart" . 1929)
+ ("/Users/abizhanzadeh/go/src/github.com/thumbtack/go/.git/hooks/pre-commit" . 8)
+ ("/Users/abizhanzadeh/sources/timeline/android/fastlane/"
+  (dired-filename . "/Users/abizhanzadeh/sources/timeline/android/fastlane/Fastfile"))
+ ("/Users/abizhanzadeh/sources/timeline/android/key.properties" . 88)
+ ("/Users/abizhanzadeh/sources/timeline/firebase/.eslintignore" . 70)
+ ("/Users/abizhanzadeh/sources/timeline/firebase/functions/package.json" . 712)
+ ("/Users/abizhanzadeh/sources/timeline/backend/src/main/java/com/redinterface/timeline/file/FileEndpoint.java" . 264)
+ ("/Users/abizhanzadeh/sources/timeline/firebase/README.md" . 82)
+ ("/Users/abizhanzadeh/sources/timeline/firebase/functions/src/index.ts" . 343)
+ ("/Users/abizhanzadeh/sources/timeline/firebase/functions/"
+  (dired-filename . "/Users/abizhanzadeh/sources/timeline/firebase/functions/src"))
+ ("/Users/abizhanzadeh/sources/timeline/firebase/functions/src/"
+  (dired-filename . "/Users/abizhanzadeh/sources/timeline/firebase/functions/src/tags"))
+ ("/Users/abizhanzadeh/sources/timeline/firebase/functions/src/tags/"
+  (dired-filename . "/Users/abizhanzadeh/sources/timeline/firebase/functions/src/tags/tags.ts"))
+ ("/Users/abizhanzadeh/Thumbtack/thrift-definitions/com/"
+  (dired-filename . "/Users/abizhanzadeh/Thumbtack/thrift-definitions/com/thumbtack"))
+ ("/Users/abizhanzadeh/Thumbtack/thrift-definitions/com/thumbtack/"
+  (dired-filename . "/Users/abizhanzadeh/Thumbtack/thrift-definitions/com/thumbtack/geo"))
+ ("/Users/abizhanzadeh/Thumbtack/thrift-definitions/com/thumbtack/geo/"
+  (dired-filename . "/Users/abizhanzadeh/Thumbtack/thrift-definitions/com/thumbtack/geo/geo.thrift"))
+ ("/Users/abizhanzadeh/Thumbtack/thrift-definitions/com/thumbtack/geo/geo.thrift" . 1793)
+ ("/Users/abizhanzadeh/sources/timeline/firebase/functions/src/tags/tags.ts" . 435)
+ ("/Users/abizhanzadeh/sources/timeline/firebase/"
+  (dired-filename . "/Users/abizhanzadeh/sources/timeline/firebase/package.json"))
+ ("/Users/abizhanzadeh/sources/timeline/.gitignore" . 740)
+ ("/Users/abizhanzadeh/sources/timeline/firebase/functions/src/iap/iap.ts" . 614)
+ ("/Users/abizhanzadeh/sources/timeline/firebase/functions/src/iap/app-store.purchase-handler.ts" . 602)
+ ("/Users/abizhanzadeh/sources/timeline/"
+  (dired-filename . "/Users/abizhanzadeh/sources/timeline/.idea"))
+ ("/Users/abizhanzadeh/sources/timeline/firebase/package.json" . 482)
+ ("/Users/abizhanzadeh/Thumbtack/thrift-definitions/"
+  (dired-filename . "/Users/abizhanzadeh/Thumbtack/thrift-definitions/com"))
+ ("/Users/abizhanzadeh/go/src/github.com/thumbtack/go/seo/handler/seo_handler.go" . 19684)
+ ("/Users/abizhanzadeh/sources/timeline/firebase/functions/README.md" . 298)
+ ("/Users/abizhanzadeh/sources/timeline/firebase/functions/lib/assets/"
+  (dired-filename . "/Users/abizhanzadeh/sources/timeline/firebase/functions/lib/assets/.."))
+ ("/Users/abizhanzadeh/sources/timeline/firebase/functions/lib/iap/google-play.purchase-handler.js" . 1457)
+ ("/Users/abizhanzadeh/sources/timeline/firebase/functions/src/iap/"
+  (dired-filename . "/Users/abizhanzadeh/sources/timeline/firebase/functions/src/iap/google-play.purchase-handler.ts"))
+ ("/Users/abizhanzadeh/sources/timeline/firebase/functions/src/iap/google-play.purchase-handler.ts" . 588)
+ ("/Users/abizhanzadeh/sources/timeline/firebase/functions/tsconfig.json" . 230)
+ ("/Users/abizhanzadeh/sources/timeline/firebase/functions/lib/"
+  (dired-filename . "/Users/abizhanzadeh/sources/timeline/firebase/functions/lib/.."))
+ ("/Users/abizhanzadeh/sources/timeline/firebase/functions/lib/iap/"
+  (dired-filename . "/Users/abizhanzadeh/sources/timeline/firebase/functions/lib/iap/.."))
+ ("/Users/abizhanzadeh/go/src/github.com/thumbtack/go/.git/hooks/"
+  (dired-filename . "/Users/abizhanzadeh/go/src/github.com/thumbtack/go/.git/hooks/pre-commit.sample"))
+ ("/Users/abizhanzadeh/go/src/github.com/thumbtack/go/.git/hooks/post-update.sample" . 162)
+ ("/Users/abizhanzadeh/go/src/github.com/thumbtack/go/.git/hooks/update.sample" . 1985)
+ ("/Users/abizhanzadeh/Thumbtack/frontend/lib/packages/cobalt-types/build-scripts.sh" . 181)
+ ("/Users/abizhanzadeh/nootropics.md" . 1756)
+ ("/Users/abizhanzadeh/nootropics/natural.md" . 2092)
+ ("/Users/abizhanzadeh/.emacs.d/personal/my_heml.el" . 2305)
+ ("/Users/abizhanzadeh/Thumbtack/"
+  (dired-filename . "/Users/abizhanzadeh/Thumbtack/alfred"))
+ ("/Users/abizhanzadeh/.emacs.d/elpa/company-anaconda-20200404.1859/company-anaconda-autoloads.el" . 643)
+ ("/Users/abizhanzadeh/.emacs.d/elpa/anaconda-mode-20220922.741/anaconda-mode-autoloads.el" . 1866)
+ ("/Users/abizhanzadeh/.emacs.d/elpa/pythonic-20220723.1741/pythonic-autoloads.el" . 584)
+ ("/Users/abizhanzadeh/.emacs.d/personal/prelude-modules.el" . 97)
+ ("/Users/abizhanzadeh/.emacs.d/elpa/tree-sitter-20220212.1632/tree-sitter-autoloads.el" . 8995)
+ ("/Users/abizhanzadeh/.emacs.d/elpa/tsc-20220212.1632/tsc-autoloads.el" . 625)
+ ("/Users/abizhanzadeh/sources/wabi-sabi/content/flutter/"
+  (dired-filename . "/Users/abizhanzadeh/sources/wabi-sabi/content/flutter/2022-12-06-futurebuilder.md"))
+ ("/Users/abizhanzadeh/sources/wabi-sabi/content/flutter/2022-12-06-futurebuilder.md" . 256)
+ ("/Users/abizhanzadeh/sources/wabi-sabi/content/post/test.md" . 68)
+ ("/Users/abizhanzadeh/sources/wabi-sabi/content/post/2022-11-github-multi-account.md" . 740)
+ ("/Users/abizhanzadeh/sources/wabi-sabi/content/flutter/2022-12-07-gmail-image.md" . 274)
+ ("/Users/abizhanzadeh/.emacs.d/elpa/easy-hugo-20220928.405/easy-hugo-autoloads.el" . 5178)
+ ("/Users/abizhanzadeh/sources/wabi-sabi/themes/hello-friend/layouts/_default/index.html" . 21)
+ ("/Users/abizhanzadeh/sources/wabi-sabi/themes/hello-friend/layouts/_default/baseof.html" . 510)
+ ("/Users/abizhanzadeh/sources/wabi-sabi/config.toml" . 1092)
+ ("/Users/abizhanzadeh/sources/wabi-sabi/themes/hello-friend/layouts/partials/header.html" . 513)
+ ("/Users/abizhanzadeh/sources/wabi-sabi/themes/hello-friend/assets/css/header.scss" . 355)
+ ("/Users/abizhanzadeh/sources/wabi-sabi/themes/hello-friend/assets/css/logo.scss" . 429)
+ ("/Users/abizhanzadeh/sources/wabi-sabi/themes/hello-friend/layouts/partials/logo.html" . 498)
+ ("/Users/abizhanzadeh/sources/wabi-sabi/themes/hello-friend/layouts/partials/breadcrumbs.html" . 80)
+ ("/Users/abizhanzadeh/sources/wabi-sabi/layouts/_default/section.html" . 345)
+ ("/Users/abizhanzadeh/sources/wabi-sabi/content/flutter/_index.md" . 80)
+ ("/Users/abizhanzadeh/.emacs.d/elpa/scss-mode-20180123.1708/scss-mode-autoloads.el" . 619)
+ ("/Users/abizhanzadeh/sources/wabi-sabi/.dependabot/config.yml" . 61)
+ ("/Users/abizhanzadeh/sources/wabi-sabi/layouts/partials/summary.html" . 50)
+ ("/Users/abizhanzadeh/sources/wabi-sabi/archetypes/"
+  (dired-filename . "/Users/abizhanzadeh/sources/wabi-sabi/archetypes/default.md"))
+ ("/Users/abizhanzadeh/sources/wabi-sabi/layouts/"
+  (dired-filename . "/Users/abizhanzadeh/sources/wabi-sabi/layouts/.."))
+ ("/Users/abizhanzadeh/sources/wabi-sabi/resources/"
+  (dired-filename . "/Users/abizhanzadeh/sources/wabi-sabi/resources/.."))
+ ("/Users/abizhanzadeh/sources/wabi-sabi/static/"
+  (dired-filename . "/Users/abizhanzadeh/sources/wabi-sabi/static/.DS_Store"))
+ ("/Users/abizhanzadeh/sources/wabi-sabi/"
+  (dired-filename . "/Users/abizhanzadeh/sources/wabi-sabi/content"))
+ ("/Users/abizhanzadeh/sources/wabi-sabi/content/"
+  (dired-filename . "/Users/abizhanzadeh/sources/wabi-sabi/content/flutter"))
+ ("/Users/abizhanzadeh/sources/wabi-sabi/themes/hello-friend/layouts/_default/list.html" . 66)
+ ("/Users/abizhanzadeh/sources/wabi-sabi/themes/hello-friend/exampleSite/config.toml" . 14)
+ ("/Users/abizhanzadeh/sources/wabi-sabi/themes/hello-friend/theme.toml" . 611)
+ ("/Users/abizhanzadeh/sources/wabi-sabi/themes/"
+  (dired-filename . "/Users/abizhanzadeh/sources/wabi-sabi/themes/.."))
+ ("/Users/abizhanzadeh/sources/wabi-sabi/themes/hello-friend/"
+  (dired-filename . "/Users/abizhanzadeh/sources/wabi-sabi/themes/hello-friend/layouts"))
+ ("/Users/abizhanzadeh/sources/wabi-sabi/themes/hello-friend/layouts/partials/"
+  (dired-filename . "/Users/abizhanzadeh/sources/wabi-sabi/themes/hello-friend/layouts/partials/.."))
+ ("/Users/abizhanzadeh/sources/wabi-sabi/themes/hello-friend/layouts/archive/"
+  (dired-filename . "/Users/abizhanzadeh/sources/wabi-sabi/themes/hello-friend/layouts/archive/.."))
+ ("/Users/abizhanzadeh/sources/wabi-sabi/themes/hello-friend/layouts/archive/list.html" . 615)
+ ("/Users/abizhanzadeh/sources/wabi-sabi/themes/hello-friend/layouts/"
+  (dired-filename . "/Users/abizhanzadeh/sources/wabi-sabi/themes/hello-friend/layouts/_default"))
+ ("/Users/abizhanzadeh/sources/wabi-sabi/themes/hello-friend/layouts/_default/"
+  (dired-filename . "/Users/abizhanzadeh/sources/wabi-sabi/themes/hello-friend/layouts/_default/index.html"))
+ ("/Users/abizhanzadeh/sources/wabi-sabi/layouts/shortcodes/dart.html" . 251)
+ ("/Users/abizhanzadeh/sources/wabi-sabi/content/post/2022-09-go-cast.md" . 628)
+ ("/Users/abizhanzadeh/sources/wabi-sabi/layouts/shortcodes/flutter.html" . 374)
+ ("/Users/abizhanzadeh/Thumbtack/terraform/modules/spark/"
+  (dired-filename . "/Users/abizhanzadeh/Thumbtack/terraform/modules/spark/.."))
+ ("/Users/abizhanzadeh/Thumbtack/terraform/modules/services/aws/"
+  (dired-filename . "/Users/abizhanzadeh/Thumbtack/terraform/modules/services/aws/.."))
+ ("/Users/abizhanzadeh/Thumbtack/terraform/modules/services/"
+  (dired-filename . "/Users/abizhanzadeh/Thumbtack/terraform/modules/services/.."))
+ ("/Users/abizhanzadeh/Thumbtack/terraform/modules/"
+  (dired-filename . "/Users/abizhanzadeh/Thumbtack/terraform/modules/.."))
+ ("/Users/abizhanzadeh/Thumbtack/terraform/configurations/"
+  (dired-filename . "/Users/abizhanzadeh/Thumbtack/terraform/configurations/aws"))
+ ("/Users/abizhanzadeh/Thumbtack/terraform/configurations/aws/"
+  (dired-filename . "/Users/abizhanzadeh/Thumbtack/terraform/configurations/aws/development_new"))
+ ("/Users/abizhanzadeh/Thumbtack/terraform/configurations/aws/development_new/"
+  (dired-filename . "/Users/abizhanzadeh/Thumbtack/terraform/configurations/aws/development_new/services"))
+ ("/Users/abizhanzadeh/Thumbtack/terraform/configurations/aws/development_new/services/"
+  (dired-filename . "/Users/abizhanzadeh/Thumbtack/terraform/configurations/aws/development_new/services/agonas"))
+ ("/Users/abizhanzadeh/Thumbtack/terraform/configurations/aws/development_new/services/agonas/agonas.tf" . 864)
+ ("/Users/abizhanzadeh/Thumbtack/terraform/configurations/aws/development_new/services/agonas/"
+  (dired-filename . "/Users/abizhanzadeh/Thumbtack/terraform/configurations/aws/development_new/services/agonas/agonas.tf"))
+ ("/Users/abizhanzadeh/.emacs.d/init.el" . 6627)
+ ("/Users/abizhanzadeh/Thumbtack/terraform/"
+  (dired-filename . "/Users/abizhanzadeh/Thumbtack/terraform/configurations"))
+ ("/Users/abizhanzadeh/sources/"
+  (dired-filename . "/Users/abizhanzadeh/sources/wabi-sabi"))
+ ("/Users/abizhanzadeh/sources/wabi-sabi/themes/hello-friend/exampleSite/"
+  (dired-filename . "/Users/abizhanzadeh/sources/wabi-sabi/themes/hello-friend/exampleSite/config.toml"))
+ ("/Users/abizhanzadeh/Thumbtack/terraform/modules/services/aws/hercule-new/"
+  (dired-filename . "/Users/abizhanzadeh/Thumbtack/terraform/modules/services/aws/hercule-new/hercule.tf"))
+ ("/Users/abizhanzadeh/Thumbtack/terraform/modules/services/aws/hercule-new/hercule.tf" . 127)
+ ("/Users/abizhanzadeh/Thumbtack/terraform/modules/services/aws/locations/"
+  (dired-filename . "/Users/abizhanzadeh/Thumbtack/terraform/modules/services/aws/locations/locations.tf"))
+ ("/Users/abizhanzadeh/Thumbtack/terraform/modules/services/aws/locations/locations.tf" . 92)
+ ("/Users/abizhanzadeh/Thumbtack/terraform/modules/services/aws/seo-new/seo-new.tf" . 2043)
+ ("/Users/abizhanzadeh/Downloads/nov2022_commercial_csv/5-digit Commercial.csv" . 1483278)
+ ("/Users/abizhanzadeh/.emacs.d/elpa/helm-20220504.827/emacs-helm.sh" . 9592)
+ ("/Users/abizhanzadeh/Downloads/nov2022_commercial_csv/5-digit Commercial-2016.csv" . 866412)
+ ("/Users/abizhanzadeh/Thumbtack/terraform/modules/services/aws/geoip/geoip.tf" . 1374)
+ ("/Users/abizhanzadeh/Thumbtack/terraform/modules/services/aws/ichabod/ichabod.tf" . 89)
+ ("/Users/abizhanzadeh/Thumbtack/thrift-definitions/com/thumbtack/common/geo.thrift" . 377)
+ ("/Users/abizhanzadeh/Thumbtack/airavat/Makefile" . 1295)
+ ("/Users/abizhanzadeh/Thumbtack/airavat/.env" . 198)
+ ("/Users/abizhanzadeh/go/src/github.com/thumbtack/go/locations/storage/zip_code_storage.go" . 1654)
+ ("/Users/abizhanzadeh/goroot/src/errors/errors.go" . 625)
+ ("/Users/abizhanzadeh/go/src/github.com/thumbtack/go/lint.sh" . 877)
+ ("/Users/abizhanzadeh/org/deft/cron.sh" . 959)
+ ("/Users/abizhanzadeh/.emacs.d/elpa/csv-mode-1.21/csv-mode-autoloads.el" . 2713)
+ ("/Users/abizhanzadeh/Thumbtack/website/bin/maintenance/zip_codes/update_zip_codes.php" . 7)
+ ("/Users/abizhanzadeh/go/src/github.com/thumbtack/go/locations/OWNERS" . 56)
+ ("/Users/abizhanzadeh/goroot/src/errors/wrap.go" . 3940)
+ ("/Users/abizhanzadeh/goroot/src/io/fs/fs.go" . 8319)
+ ("/Users/abizhanzadeh/"
+  (dired-filename . "/Users/abizhanzadeh/.bash_history"))
+ ("/Users/abizhanzadeh/Thumbtack/postgres-schema/databases/"
+  (dired-filename . "/Users/abizhanzadeh/Thumbtack/postgres-schema/databases/incentives"))
+ ("/Users/abizhanzadeh/Thumbtack/postgres-schema/databases/incentives/"
+  (dired-filename . "/Users/abizhanzadeh/Thumbtack/postgres-schema/databases/incentives/20221028_add_refund_pk_to_credit.sql"))
+ ("/Users/abizhanzadeh/Thumbtack/scala/experiment-web/app/"
+  (dired-filename . "/Users/abizhanzadeh/Thumbtack/scala/experiment-web/app/controllers"))
+ ("/Users/abizhanzadeh/Thumbtack/scala/experiment-web/app/controllers/"
+  (dired-filename . "/Users/abizhanzadeh/Thumbtack/scala/experiment-web/app/controllers/Application.scala"))
+ ("/Users/abizhanzadeh/Thumbtack/scala/experiment-web/app/controllers/Application.scala" . 534)
+ ("/Users/abizhanzadeh/Thumbtack/thrift-definitions/README.md" . 2226)
+ ("/Users/abizhanzadeh/Thumbtack/thrift-definitions/thrifter/"
+  (dired-filename . "/Users/abizhanzadeh/Thumbtack/thrift-definitions/thrifter/app"))
+ ("/Users/abizhanzadeh/Thumbtack/thrift-definitions/thrifter/app/"
+  (dired-filename . "/Users/abizhanzadeh/Thumbtack/thrift-definitions/thrifter/app/thrift_ast.py"))
+ ("/Users/abizhanzadeh/Thumbtack/thrift-definitions/com/thumbtack/incentives/refunds.thrift" . 562)
+ ("/Users/abizhanzadeh/go/src/github.com/thumbtack/go/"
+  (dired-filename . "/Users/abizhanzadeh/go/src/github.com/thumbtack/go/featureflags"))
+ ("/Users/abizhanzadeh/Thumbtack/scala/experiment-web/"
+  (dired-filename . "/Users/abizhanzadeh/Thumbtack/scala/experiment-web/app"))
+ ("/Users/abizhanzadeh/Thumbtack/thrift-definitions/com/thumbtack/incentives/"
+  (dired-filename . "/Users/abizhanzadeh/Thumbtack/thrift-definitions/com/thumbtack/incentives/refunds.thrift"))
+ ("/Users/abizhanzadeh/Thumbtack/website/"
+  (dired-filename . "/Users/abizhanzadeh/Thumbtack/website/.git"))
+ ("/Users/abizhanzadeh/Thumbtack/postgres-schema/"
+  (dired-filename . "/Users/abizhanzadeh/Thumbtack/postgres-schema/databases"))
+ ("/Users/abizhanzadeh/go/src/k8s.io/kubernetes/cmd/kubectl/"
+  (dired-filename . "/Users/abizhanzadeh/go/src/k8s.io/kubernetes/cmd/kubectl/kubectl.go"))
+ ("/Users/abizhanzadeh/go/src/k8s.io/kubernetes/cmd/kubectl/kubectl.go" . 2)
+ ("/Users/abizhanzadeh/go/src/k8s.io/kubernetes/cmd/"
+  (dired-filename . "/Users/abizhanzadeh/go/src/k8s.io/kubernetes/cmd/kubectl"))
+ ("/Users/abizhanzadeh/Thumbtack/postgres-schema/databases/incentives/20221026_add_refund_table.sql" . 911)
+ ("/Users/abizhanzadeh/Thumbtack/website/.dockerignore" . 133)
+ ("/Users/abizhanzadeh/Thumbtack/postgres-schema/databases/incentives/20220220_add_discounts_table.sql" . 1769)
+ ("/Users/abizhanzadeh/Org/deft/"
+  (dired-filename . "/Users/abizhanzadeh/Org/deft/."))
+ ("/Users/abizhanzadeh/Thumbtack/postgres-schema/databases/incentives/20220218_add_roles.sql" . 2106)
+ ("/Users/abizhanzadeh/Thumbtack/postgres-schema/README.md" . 904)
+ ("/Users/abizhanzadeh/Thumbtack/website/Dockerfile" . 61)
+ ("/Users/abizhanzadeh/Thumbtack/monitoring-definitions/klaxon/production/seo/service/"
+  (dired-filename . "/Users/abizhanzadeh/Thumbtack/monitoring-definitions/klaxon/production/seo/service/.."))
+ ("/Users/abizhanzadeh/Thumbtack/monitoring-definitions/klaxon/production/seo/routing/"
+  (dired-filename . "/Users/abizhanzadeh/Thumbtack/monitoring-definitions/klaxon/production/seo/routing/.."))
+ ("/Users/abizhanzadeh/Thumbtack/monitoring-definitions/klaxon/production/seo/clientError/"
+  (dired-filename . "/Users/abizhanzadeh/Thumbtack/monitoring-definitions/klaxon/production/seo/clientError/.."))
+ ("/Users/abizhanzadeh/Thumbtack/monitoring-definitions/klaxon/production/seo/"
+  (dired-filename . "/Users/abizhanzadeh/Thumbtack/monitoring-definitions/klaxon/production/seo/.."))
+ ("/Users/abizhanzadeh/Thumbtack/monitoring-definitions/klaxon/production/"
+  (dired-filename . "/Users/abizhanzadeh/Thumbtack/monitoring-definitions/klaxon/production/.."))
+ ("/Users/abizhanzadeh/Thumbtack/monitoring-definitions/klaxon/"
+  (dired-filename . "/Users/abizhanzadeh/Thumbtack/monitoring-definitions/klaxon/.."))
+ ("/Users/abizhanzadeh/Thumbtack/monitoring-definitions/elastalert/"
+  (dired-filename . "/Users/abizhanzadeh/Thumbtack/monitoring-definitions/elastalert/production"))
+ ("/Users/abizhanzadeh/Thumbtack/monitoring-definitions/elastalert/production/"
+  (dired-filename . "/Users/abizhanzadeh/Thumbtack/monitoring-definitions/elastalert/production/seo-service-errors.yaml"))
+ ("/Users/abizhanzadeh/Thumbtack/monitoring-definitions/elastalert/production/seo-service-errors.yaml" . 120)
+ ("/Users/abizhanzadeh/Thumbtack/monitoring-definitions/"
+  (dired-filename . "/Users/abizhanzadeh/Thumbtack/monitoring-definitions/elastalert"))
+ ("/Users/abizhanzadeh/Thumbtack/monitoring-definitions/elastalert/production/seo-organic-search-errors.yaml" . 500)
+ ("/Users/abizhanzadeh/Thumbtack/monitoring-definitions/klaxon/production/seo/clientError/nonfatal_health_errors.json" . 220)
+ ("/Users/abizhanzadeh/Thumbtack/monitoring-definitions/klaxon/production/seo/routing/get_by_url_responsiveness.json" . 391)
+ ("/Users/abizhanzadeh/Thumbtack/monitoring-definitions/klaxon/production/seo/service/responsiveness.json" . 189)
+ ("/"
+  (dired-filename . "/.VolumeIcon.icns"))
+ ("/Users/abizhanzadeh/goroot/src/io/io.go" . 14729)
+ ("/Users/abizhanzadeh/goroot/src/io/pipe.go" . 627)
+ ("/Users/abizhanzadeh/goroot/src/io/"
+  (dired-filename . "/Users/abizhanzadeh/goroot/src/io/io.go"))
+ ("/Users/abizhanzadeh/goroot/src/io/ioutil/ioutil.go" . 1340)
+ ("/Users/abizhanzadeh/Thumbtack/website/includes/view_models/Recommendations.php" . 1429)
+ ("/Users/abizhanzadeh/sources/mh/looker-integration/src/"
+  (dired-filename . "/Users/abizhanzadeh/sources/mh/looker-integration/src/app.ts"))
+ ("/Users/abizhanzadeh/sources/mh/looker-integration/src/app.ts" . 109)
+ ("/Users/abizhanzadeh/sources/mh/looker-integration/src/config_provider.ts" . 61)
+ ("/Users/abizhanzadeh/sources/mh/looker-integration/src/looker_service.ts" . 800)
+ ("/Users/abizhanzadeh/sources/mh/looker-integration/"
+  (dired-filename . "/Users/abizhanzadeh/sources/mh/looker-integration/src"))
+ ("/Users/abizhanzadeh/sources/mh/looker-integration/package.json" . 286)
+ ("/Users/abizhanzadeh/Thumbtack/yoda/yoda/proxy_local/default.conf.template" . 63)
+ ("/Users/abizhanzadeh/Thumbtack/thrift-definitions/com/thumbtack/incentives/incentives.thrift" . 15133)
+ ("/Users/abizhanzadeh/sources/mh/sdk-codegen/examples/java/example_gradle/src/"
+  (dired-filename . "/Users/abizhanzadeh/sources/mh/sdk-codegen/examples/java/example_gradle/src/main"))
+ ("/Users/abizhanzadeh/sources/mh/sdk-codegen/examples/java/example_gradle/src/main/"
+  (dired-filename . "/Users/abizhanzadeh/sources/mh/sdk-codegen/examples/java/example_gradle/src/main/java"))
+ ("/Users/abizhanzadeh/sources/mh/sdk-codegen/examples/java/example_gradle/src/main/java/"
+  (dired-filename . "/Users/abizhanzadeh/sources/mh/sdk-codegen/examples/java/example_gradle/src/main/java/com"))
+ ("/Users/abizhanzadeh/sources/mh/sdk-codegen/examples/java/example_gradle/src/main/java/com/"
+  (dired-filename . "/Users/abizhanzadeh/sources/mh/sdk-codegen/examples/java/example_gradle/src/main/java/com/looker"))
+ ("/Users/abizhanzadeh/sources/mh/sdk-codegen/examples/java/example_gradle/src/main/java/com/looker/"
+  (dired-filename . "/Users/abizhanzadeh/sources/mh/sdk-codegen/examples/java/example_gradle/src/main/java/com/looker/example"))
+ ("/Users/abizhanzadeh/sources/mh/sdk-codegen/examples/java/example_gradle/src/main/java/com/looker/example/"
+  (dired-filename . "/Users/abizhanzadeh/sources/mh/sdk-codegen/examples/java/example_gradle/src/main/java/com/looker/example/ExampleRunner.java"))
+ ("/Users/abizhanzadeh/sources/mh/sdk-codegen/examples/java/example_gradle/src/main/java/com/looker/example/ExampleRunner.java" . 338)
+ ("/Users/abizhanzadeh/sources/mh/sdk-codegen/examples/java/example_gradle/.env_sample" . 201)
+ ("/Users/abizhanzadeh/sources/mh/sdk-codegen/examples/java/example_gradle/"
+  (dired-filename . "/Users/abizhanzadeh/sources/mh/sdk-codegen/examples/java/example_gradle/src"))
+ ("/Users/abizhanzadeh/sources/mh/sdk-codegen/examples/java/example_gradle/build.gradle" . 10)
+ ("/Users/abizhanzadeh/.zprezto/modules/completion/external/src/_yoda" . 148)
+ ("/Users/abizhanzadeh/Thumbtack/frontend/"
+  (dired-filename . "/Users/abizhanzadeh/Thumbtack/frontend/.."))
+ ("/Users/abizhanzadeh/Thumbtack/postgres-schema/databases/incentives/20220223_0_add_user_discounts_table.sql" . 105)
+ ("/Users/abizhanzadeh/Thumbtack/postgres-schema/databases/incentives/20220714_add_sqoop_permissions_for_bigquery_export.sql" . 87)
+ ("/Users/abizhanzadeh/Thumbtack/postgres-schema/databases/incentives/20220725_update_incentive_usage_application_idx.sql" . 777)
+ ("/Users/abizhanzadeh/.zprezto/runcoms/zpreztorc" . 1010)
+ ("/Users/abizhanzadeh/go/src/github.com/redinterface/piccogo/go.mod" . 305)
+ ("/Users/abizhanzadeh/.zprezto/modules/git/"
+  (dired-filename . "/Users/abizhanzadeh/.zprezto/modules/git/README.md"))
+ ("/Users/abizhanzadeh/.zprezto/init.zsh" . 27)
+ ("/Users/abizhanzadeh/.config/fish/functions/nvm.fish" . 70)
+ ("/Users/abizhanzadeh/.config/fish/config.fish" . 212)
+ ("/Users/abizhanzadeh/Thumbtack/experiment-definitions/providers/local_definitions.py" . 15102)
+ ("/Users/abizhanzadeh/Thumbtack/notification-templates/src/pages/message-notification/"
+  (dired-filename . "/Users/abizhanzadeh/Thumbtack/notification-templates/src/pages/message-notification/message-notification.txt"))
+ ("/Users/abizhanzadeh/Thumbtack/notification-templates/src/pages/"
+  (dired-filename . "/Users/abizhanzadeh/Thumbtack/notification-templates/src/pages/customer-referral-credit-to-referee"))
+ ("/Users/abizhanzadeh/.okta/"
+  (dired-filename . "/Users/abizhanzadeh/.okta/okta-login-shell-function"))
+ ("/Users/abizhanzadeh/Thumbtack/website/includes/views/RequestViews.php" . 9310)
+ ("/Users/abizhanzadeh/.okta/okta-login-shell-function" . 262)
+ ("/Users/abizhanzadeh/sources/agent-install/agent.jinja" . 427)
+ ("/Users/abizhanzadeh/sources/agent-install/agent.sh" . 3521)
+ ("/Users/abizhanzadeh/Thumbtack/notification-templates/src/"
+  (dired-filename . "/Users/abizhanzadeh/Thumbtack/notification-templates/src/pages"))
+ ("/Users/abizhanzadeh/sources/agent-install/"
+  (dired-filename . "/Users/abizhanzadeh/sources/agent-install/agent.jinja"))
+ ("/Users/abizhanzadeh/.okta/.current-session" . 181)
+ ("/Users/abizhanzadeh/Thumbtack/notification-templates/"
+  (dired-filename . "/Users/abizhanzadeh/Thumbtack/notification-templates/src"))
+ ("/Users/abizhanzadeh/Thumbtack/notification-templates/src/pages/message-notification/message-notification.html" . 437)
+ ("/Users/abizhanzadeh/Thumbtack/notification-templates/src/pages/new-lead-experience-simplified/new-lead-experience-simplified.json" . 4855)
+ ("/Users/abizhanzadeh/Thumbtack/notification-templates/src/pages/aggregated-report-v3/aggregated-report-v3.html" . 3524)
+ ("/Users/abizhanzadeh/go/src/github.com/thumbtack/go/featureflags/flags/flag.go" . 1447)
+ ("/Users/abizhanzadeh/go/src/github.com/thumbtack/go/featureflags/"
+  (dired-filename . "/Users/abizhanzadeh/go/src/github.com/thumbtack/go/featureflags/flags"))
+ ("/Users/abizhanzadeh/go/src/github.com/thumbtack/go/featureflags/flags/"
+  (dired-filename . "/Users/abizhanzadeh/go/src/github.com/thumbtack/go/featureflags/flags/flag_set.go"))
+ ("/Users/abizhanzadeh/go/src/github.com/thumbtack/go/featureflags/flags/flag_set.go" . 2311)
+ ("/Users/abizhanzadeh/go/src/github.com/redinterface/piccogo/"
+  (dired-filename . "/Users/abizhanzadeh/go/src/github.com/redinterface/piccogo/go.mod"))
+ ("/Users/abizhanzadeh/Thumbtack/experiment-definitions/experiments/inactive/" . 77)
+ ("/Users/abizhanzadeh/go/src/github.com/thumbtack/go/.git/"
+  (dired-filename . "/Users/abizhanzadeh/go/src/github.com/thumbtack/go/.git/COMMIT_EDITMSG"))
+ ("/Users/abizhanzadeh/sources/timeline/pubspec.yaml" . 1076)
+ ("/Users/abizhanzadeh/Thumbtack/tophat/"
+  (dired-filename . "/Users/abizhanzadeh/Thumbtack/tophat/.dockerignore"))
+ ("/Users/abizhanzadeh/git.sh" . 1096)
+ ("/Users/abizhanzadeh/Library/LaunchAgents/com.thumbtack.okta-login.plist" . 407)
+ ("/Users/abizhanzadeh/.emacs.d/elpa/yasnippet-20200604.246/yasnippet-autoloads.el" . 2345)
+ ("/Users/abizhanzadeh/.emacs.d/elpa/yasnippet-lean-20220105.2251/yasnippet-lean-autoloads.el" . 686)
+ ("/Users/abizhanzadeh/.emacs.d/elpa/lsp-origami-20211016.1045/lsp-origami-autoloads.el" . 1193)
+ ("/Users/abizhanzadeh/.emacs.d/elpa/origami-20200331.1019/origami-autoloads.el" . 1985))

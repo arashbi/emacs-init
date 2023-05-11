@@ -1,0 +1,44 @@
+rm config 
+cd ../../
+hugo 
+hugo --help
+hugo -D serve
+yarn watch
+which node
+node -v 
+yarn watch
+cd ..
+cd ..
+ls
+vp backend-runner.json assets/
+cp backend-runner.json assets/
+cd firebase/
+ls
+less README.md 
+j tools
+cd ../../
+cd tools/
+ls
+cd kafka_2.13-3.3.2/
+pwd
+ls 
+(ls)
+(ls *)
+ls
+(_* 1 1)
+(* 1 1)
+('1 2 3)
+(list 1 2 3)
+(+ (list 1 2 3))
+( + 1 2 3_)
+( + 1 2 3)
+(map )
+(1 2 3)
+h
+(cl-map + 1 '(1 2 3))
+(defun a (n)(+ 1 n))
+(a 3)
+(cl-map a (1 2 3))
+(cl-map 'a (1 2 3))
+(cl-map 'a a (1 2 3))
+(cl-map 'int a (1 2 3))
